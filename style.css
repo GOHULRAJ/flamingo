@@ -262,7 +262,7 @@ a{
 }
 
 .section-contact{
-background-image:url(/images/s-1.jpeg);
+background-image:url(./images/s-1.jpeg);
 
 background-repeat: no-repeat;
 margin: auto;
